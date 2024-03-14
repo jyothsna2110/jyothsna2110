@@ -1,5 +1,4 @@
 <h3 align="center">A passionate data analyst</h3><br>
-
 # 💫 About Me:
 
 👋 Hi! I'm Manepalli Jyothsna,<br>3rd year student studying Artificial Intelligence and Data Science (AI&DS).<br> Passionate about leveraging data for insights,<br> I collaborate projects on data analytics and enjoy web scraping for valuable datasets.<br>Open to new opportunities and learning experiences! 💡
